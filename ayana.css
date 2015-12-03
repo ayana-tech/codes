@@ -1,0 +1,4 @@
+ this.ok = function(){
+  document.getElementById('dialogbox').style.top = "-300px";
+  document.getElementById('dialogoverlay').style.display = "none";
+ }
